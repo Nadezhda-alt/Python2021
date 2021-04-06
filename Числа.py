@@ -1,5 +1,3 @@
-import pymorphy2
-
 number = int(input("Введите процент от 1 - 20"))
 if number == 1:
     name = "процент"
